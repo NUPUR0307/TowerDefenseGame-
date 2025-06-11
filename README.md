@@ -23,16 +23,16 @@ This is a custom-built Tower Defense game designed and developed entirely in Jav
 
 ## 🗺 Map Variants
 
-- **Basic** – standard gameplay with towers and walls
-- **Flood** – includes areas that cannot be built on due to water
-- **Extended** – allows castle health regeneration, tower upgrades, and tower selling
+- **Beginner** – standard gameplay with towers and walls
+- **Intermediate** – includes areas that cannot be built on due to water
+- **Advanced** – allows castle health regeneration, tower upgrades, and tower selling
 
 ## 🛠 Technology Stack
 
 - Java 17
 - JavaFX
-- Gradle (build tool)
-- Object-Oriented Programming (OOP)
+- Gradle 
+- Object-Oriented Programming 
 - Event-driven UI with JavaFX
 - Custom game loop and rendering engine
 
